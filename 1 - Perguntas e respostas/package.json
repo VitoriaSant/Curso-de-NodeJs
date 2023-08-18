@@ -1,0 +1,11 @@
+{
+  "name": "1---perguntas-e-respostas",
+  "version": "1.0.0",
+  "description": "Plataforma de perguntas e respostar ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vitoria Santos",
+  "license": "ISC"
+}
